@@ -13,7 +13,7 @@
 5. [Python 3 Tutorial](https://www.runoob.com/python3/python3-tutorial.html) - курс по Python на Rookie Tutorials, а также множество других обучающих ресурсов на нем!
 6. [Python Tutorial](https://liaoxuefeng.com/books/python/introduction/index.html) - курс по Python на личном сайте Ляо Сюэфэна, на котором есть и другие обучающие ресурсы.
 
-#### видеоуроки
+#### Видеоуроки
 
 1. [Learn Python from Scratch](https://space.bilibili.com/1177252794/lists/1222205) - мое собственное вводное видео по Python на Bilibili.
 2. [Getting Started with Python](https://www.zhihu.com/education/video-course/1491848366791700480) - набор видео, выложенных на Zhihu Zhixue Hall с предыдущих лекций.
@@ -59,7 +59,7 @@
 3. «Изучаем Python» (*Learning Python*) - знаменитая книга по Python.
 4. *Введение в вычисления и программирование с помощью Python* - я сам обожаю эту книгу!
 
-#### Продвинутое чтение
+#### Продвинутый уровень
 
 1. «Поваренная книга Python» - следуйте рецептам, и вы не ошибетесь.
 2. *Fluent Python* - путь к мастерству!
@@ -93,7 +93,7 @@
 6. «Глубокое обучение с помощью Python» (*Deep Learning with Python*) - я обожаю эту книгу!
 7. *Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow* - знаменитая книга про ящериц, от машинного обучения до глубокого обучения.
 
-#### Большие модели
+#### Большие данные
 
 1. *Getting Started with Google BERT* - книга с 5 звездами.
 
@@ -101,7 +101,7 @@
 3. «Построение больших языковых моделей своими руками» (《Hands-On Large Language Models》)
 4. 《大模型应用开发极简入门：基于GPT-4和ChatGPT》（*Developing Apps with GPT-4 and ChatGPT*）)
 
-#### Тестовые операции
+#### Тестирование
 
 1. «Автоматизированное тестирование Selenium: на основе языка Python» (*Изучение инструментов тестирования Selenium с помощью Python*)
 2. Тестирование с помощью pytest в действии (*Тестирование на Python с помощью pytest*)
